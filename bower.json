@@ -1,0 +1,41 @@
+{
+  "name": "how-to-node-basic-setup",
+  "version": "0.1.0",
+  "authors": [
+    "wis3ape <wis3ape@outlook.com>"
+  ],
+  "description": "Nodejs project",
+  "keywords": [
+    "mongodb",
+    "express",
+    "angularjs",
+    "nodejs"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/libs",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.4.0",
+    "angular-bootstrap": "~0.12.0",
+    "angular-messages": "~1.3.14",
+    "angular-mocks": "~1.3.13",
+    "angular-route": "~1.3.10",
+    "angular-sanitize": "~1.3.10",
+    "angular-touch": "~1.3.10",
+    "angular-ui-router": "~0.2.13",
+    "angular-ui-utils": "~0.2.1",
+    "bootstrap": "~3.3.2",
+    "font-awesome": "~4.2.0",
+    "underscore": "~1.7.0"
+  },
+  "resolutions": {
+    "angular": "1.4.0"
+  }
+}
